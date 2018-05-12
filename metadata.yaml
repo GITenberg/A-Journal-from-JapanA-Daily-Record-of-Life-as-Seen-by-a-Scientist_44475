@@ -1,0 +1,29 @@
+_repo: A-Journal-from-JapanA-Daily-Record-of-Life-as-Seen-by-a-Scientist_44475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44475-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Stopes, Marie Carmichael
+    alias: Stopes, Marie Charlotte Carmichael
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '42511'
+    url: http://www.gutenberg.org/2009/agents/42511
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Stopes
+description: ''
+gutenberg_issued: '2013-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+title: 'A Journal from Japan: A Daily Record of Life as Seen by a Scientist'
+url: http://www.gutenberg.org/ebooks/44475
